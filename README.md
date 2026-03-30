@@ -40,7 +40,7 @@ This repository is my Digital Literacy Portfolio, built as part of the CSE0001 c
 ---
 
 ## Google Form – Digital Literacy Quiz
-🔗 *Link will be added after Task 3 is completed*
+🔗https://forms.gle/KuunMTdwbJq5tf366
 
 ---
 
